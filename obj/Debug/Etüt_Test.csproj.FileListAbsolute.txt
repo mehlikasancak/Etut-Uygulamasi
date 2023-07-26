@@ -1,0 +1,11 @@
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\bin\Debug\Etüt_Test.exe.config
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\bin\Debug\Etüt_Test.exe
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\bin\Debug\Etüt_Test.pdb
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\obj\Debug\Etüt_Test.csproj.AssemblyReference.cache
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\obj\Debug\Etüt_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\obj\Debug\Etüt_Test.Properties.Resources.resources
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\obj\Debug\Etüt_Test.csproj.GenerateResource.cache
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\obj\Debug\Etüt_Test.csproj.CoreCompileInputs.cache
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\obj\Debug\Etüt_Test.exe
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\obj\Debug\Etüt_Test.pdb
+C:\Users\mehli\OneDrive\Masaüstü\Projeler\Etüt_Test\obj\Debug\Etüt_Test.EtutApp.resources
